@@ -1,5 +1,3 @@
-源码获取：微信：daihq713
-
 springboot在线商城，java在线商城，在线商城
 
 运行环境：
@@ -26,6 +24,8 @@ IDE类型：IDEA、Eclipse都可运行
 包含：源码+sql数据库+功能演示视频
 
 需要其他项目的话可以支持：java项目定制、文档报告定制
+
+### 完整源码获取：请加微信：daihq713
 
 项目运行效果：
 ![Snipaste_2023-09-24_22-50-28](https://github.com/javagelei/ChongFanHanTang-1/assets/144759465/e200b2a3-d053-4f6f-931f-ae8edca75458)
